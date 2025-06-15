@@ -1,0 +1,6 @@
+a = frozenset("Python is easy")
+print(a)
+b = frozenset([111,222,333,444])
+print(b)
+c = frozenset((1,2,3,4,5))
+print(c)
